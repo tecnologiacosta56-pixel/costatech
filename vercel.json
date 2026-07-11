@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://costatech.base44.app/$1"
+    }
+  ]
+}
